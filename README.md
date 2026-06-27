@@ -1,83 +1,102 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:E100FF,100:FF6FD8&height=250&section=header&text=AZHAN%20BAIG&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20MERN%20%2B%20Next.js%20%2B%20AI&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=230&section=header&text=Muhammad%20Azhan%20Baig&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=NestJS%20%E2%80%A2%20Next.js%20%E2%80%A2%20AI%20Integration%20%E2%80%A2%20Full-Stack%20Engineer&descAlignY=58&descSize=19" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Shipping+Z-State+%26+SubGuard+AI+%F0%9F%9A%80;Wiring+LLMs+into+real+products+%F0%9F%A4%96;JWT+%2B+RBAC+%2B+Refresh+Tokens+%3D+sleep+well+%F0%9F%94%90;Karachi+%E2%86%92+the+internet+%F0%9F%8C%8D&font=Fira+Code&size=22&duration=2500&pause=800&color=B026FF&center=true&vCenter=true&width=700&height=45"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=NestJS+Backend+Architect;Next.js+%26+React+Specialist;AI%2FLLM+Integration+Engineer+(OpenRouter);Full-Stack+SaaS+Builder+%E2%80%94+Z-State+%26+SubGuard+AI&font=Fira%20Code&center=true&width=650&height=45&color=8E2DE2&vCenter=true&size=21&pause=1500"/>
 
 <br/>
 
-[![Email](https://img.shields.io/badge/-mazhanbaig44%40gmail.com-FF6F61?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mazhanbaig44@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-azhan-baig)
-[![Portfolio](https://img.shields.io/badge/-mazhanbaig.vercel.app-7F00FF?style=for-the-badge&logo=vercel&logoColor=white)](https://mazhanbaig.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mazhanbaig44@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-azhan-baig)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mazhanbaig.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mazhanbaig)
 
 </div>
 
 <br/>
 
-```yaml
-whoami: Muhammad Azhan Baig
-role: Full-Stack Developer (MERN + Next.js + AI)
-currently@: Zaitoon Ashraf IT Park — Full Stack MERN & App Dev Intern
-shipping: [Z-State (live), SubGuard AI (in dev)]
-stack: [React, Next.js, Node.js, Express, NestJS, MongoDB, Firebase, Docker]
-ai_layer: OpenRouter LLM APIs + Prompt Engineering
-location: Karachi, Pakistan 🇵🇰
-status: 🟢 open to opportunities
-```
+## ⚡ Top Skills
 
-<br/>
-
-## ⚡ Tech Arsenal
+<table align="center">
+<tr>
+<td align="center" width="33%">
+<img src="https://skillicons.dev/icons?i=nestjs" width="65"/><br/>
+<b>NestJS</b><br/>
+<sub>Enterprise-grade backend<br/>architecture & modular APIs</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://skillicons.dev/icons?i=nextjs" width="65"/><br/>
+<b>Next.js</b><br/>
+<sub>Production-grade React<br/>apps, App Router, SSR</sub>
+</td>
+<td align="center" width="34%">
+<img src="https://img.shields.io/badge/-AI-8E2DE2?style=for-the-badge&logo=openai&logoColor=white" height="40"/><br/>
+<b>AI Integration</b><br/>
+<sub>OpenRouter LLM APIs,<br/>prompt engineering, RAG</sub>
+</td>
+</tr>
+</table>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,nestjs,mongodb,firebase,docker,git,github,vercel,tailwind,postman,figma&theme=dark&perline=8"/>
+<img src="https://img.shields.io/badge/⭐_PRIMARY_FOCUS-NestJS_×_Next.js_×_AI_Integration-8E2DE2?style=for-the-badge"/>
 </div>
 
 <br/>
 
-## 🔥 What I'm Building
+## 🚀 About Me
 
-<table>
+> Full-Stack Developer engineering production SaaS platforms end-to-end — from **NestJS/Express backends** to **Next.js dashboards** — with **AI-powered features** baked in via OpenRouter LLM APIs. Currently interning as a MERN Stack Developer while shipping **Z-State** and **SubGuard AI**.
+
+- 🏗️ Architecting secure, scalable APIs with **JWT auth, refresh token rotation & RBAC**
+- 🤖 Wiring real **LLM-powered features** into production apps — not just AI demos
+- 📦 Containerizing & deploying full-stack systems with **Docker** + Vercel CI/CD
+- 🎓 FSc Computer Science (Part II) @ Army Public College COD · trained @ SMIT
+
+<br/>
+
+## 🧰 Full Tech Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,nestjs,mongodb,firebase,docker,git,github,vercel,tailwind,postman&theme=dark" />
+
+</div>
+
+<table align="center">
 <tr>
-<th width="50%">🏢 Z-State <a href="https://zstate.vercel.app"><img src="https://img.shields.io/badge/LIVE-success?style=flat-square"/></a></th>
-<th width="50%">🛡️ SubGuard AI <img src="https://img.shields.io/badge/IN%20DEV-orange?style=flat-square"/></th>
-</tr>
-<tr>
-<td>
+<td valign="top" width="25%">
 
-Real estate management SaaS — property listings, client/owner relations, appointment scheduling. Multi-tenant RBAC + JWT refresh rotation, shipped on Vercel CI/CD.
-
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![JWT](https://img.shields.io/badge/-JWT-000?style=flat-square&logo=jsonwebtokens)
+**🌐 Frontend**
+- React.js
+- Next.js
+- React Native
+- Tailwind CSS
 
 </td>
-<td>
+<td valign="top" width="25%">
 
-AI-powered compliance platform for contractors — document analysis, insurance validation, risk scoring, automated reminders, all running on OpenRouter LLMs.
-
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![OpenRouter](https://img.shields.io/badge/-OpenRouter-5A45FF?style=flat-square)
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<th width="50%">⚙️ RSMS Backend API</th>
-<th width="50%">⏱️ SMIT 12-Hour Hackathon</th>
-</tr>
-<tr>
-<td>
-
-Modular Express.js REST service — full middleware pipeline for auth, validation, error handling & request logging, secured with Firebase Admin SDK + RBAC.
+**⚙️ Backend**
+- NestJS 🔥
+- Express.js
+- Node.js
+- REST APIs
 
 </td>
-<td>
+<td valign="top" width="25%">
 
-Designed, built, and deployed a working full-stack MERN prototype as a team — under a hard 12-hour deadline. Concept to deployment, no time to waste.
+**🗄️ Data**
+- MongoDB
+- Firebase
+- NoSQL Modeling
+
+</td>
+<td valign="top" width="25%">
+
+**🔐 AI & Security**
+- OpenRouter 🔥
+- AI Integration 🔥
+- JWT / RBAC
+- Docker
 
 </td>
 </tr>
@@ -85,19 +104,68 @@ Designed, built, and deployed a working full-stack MERN prototype as a team — 
 
 <br/>
 
-## 📈 The Numbers
+## 🏆 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏢 [Z-State](https://zstate.vercel.app)
+**Real Estate Management SaaS**
+
+Production platform — listings, client/owner relations, scheduling. JWT + refresh tokens + RBAC for multi-tenant isolation. Express.js APIs, Vercel CI/CD.
+
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![JWT](https://img.shields.io/badge/-JWT-black?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ SubGuard AI
+**AI-Powered Compliance Platform** *(In Dev)*
+
+Document analysis, insurance validation, automated risk scoring & compliance reminders — powered by OpenRouter LLMs.
+
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js) ![OpenRouter](https://img.shields.io/badge/-OpenRouter-8E2DE2?style=flat-square) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ RSMS Backend API
+**Modular REST API Service**
+
+Full middleware pipeline — auth, validation, error handling, logging. Firebase Admin SDK + JWT + RBAC securing every endpoint.
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000?style=flat-square&logo=express)
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ SMIT 12-Hour Hackathon
+**Full-Stack MERN Prototype**
+
+Designed, built, and shipped a working MERN prototype under a fixed 12-hour team constraint.
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mazhanbaig&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mazhanbaig&theme=radical&hide_border=true&background=0D1117" width="48%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mazhanbaig&theme=react-dark&hide_border=true&bg_color=0D1117" width="97%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mazhanbaig&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mazhanbaig&theme=radical&hide_border=true" width="49%"/>
 
 </div>
 
 <details>
-<summary><b>🏆 Trophy Case (click to expand)</b></summary>
+<summary><b>🏆 GitHub Trophies</b></summary>
 <br/>
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=mazhanbaig&theme=radical&no-frame=true&row=1&column=7"/>
@@ -106,16 +174,20 @@ Designed, built, and deployed a working full-stack MERN prototype as a team — 
 
 <br/>
 
-## 🤝 Let's Build Something
-
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-FF6F61?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mazhanbaig44@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-azhan-baig)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7F00FF?style=for-the-badge&logo=vercel&logoColor=white)](https://mazhanbaig.vercel.app)
+## 📫 Let's Build Something
 
-![Profile Views](https://komarev.com/ghpvc/?username=mazhanbaig&color=B026FF&style=for-the-badge&label=PROFILE+VIEWS)
+<a href="https://www.linkedin.com/in/muhammad-azhan-baig"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://mazhanbaig.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="mailto:mazhanbaig44@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6FD8,50:E100FF,100:7F00FF&height=120&section=footer" width="100%"/>
+<sub>Open to full-stack & AI-integration roles · NestJS · Next.js · OpenRouter</sub>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=mazhanbaig&color=8E2DE2&style=flat-square&label=Profile+Views)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=100&section=footer" width="100%"/>
 
 </div>

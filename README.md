@@ -1,96 +1,121 @@
-# 👋 Hi, I'm Muhammad Azhan Baig
+<div align="center">
 
-### Full-Stack Developer | MERN · Next.js | AI/LLM Integration
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:E100FF,100:FF6FD8&height=250&section=header&text=AZHAN%20BAIG&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20MERN%20%2B%20Next.js%20%2B%20AI&descAlignY=55&descSize=20" width="100%"/>
 
-*Building production-grade SaaS platforms with secure auth, scalable APIs, and AI-driven features*
+<img src="https://readme-typing-svg.demolab.com/?lines=Shipping+Z-State+%26+SubGuard+AI+%F0%9F%9A%80;Wiring+LLMs+into+real+products+%F0%9F%A4%96;JWT+%2B+RBAC+%2B+Refresh+Tokens+%3D+sleep+well+%F0%9F%94%90;Karachi+%E2%86%92+the+internet+%F0%9F%8C%8D&font=Fira+Code&size=22&duration=2500&pause=800&color=B026FF&center=true&vCenter=true&width=700&height=45"/>
 
-[![Email](https://img.shields.io/badge/Email-mazhanbaig44%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mazhanbaig44@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-muhammad--azhan--baig-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-azhan-baig)
-[![Portfolio](https://img.shields.io/badge/Portfolio-mazhanbaig.vercel.app-000000?style=flat&logo=vercel&logoColor=white)](https://mazhanbaig.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-mazhanbaig-181717?style=flat&logo=github&logoColor=white)](https://github.com/mazhanbaig)
+<br/>
 
----
+[![Email](https://img.shields.io/badge/-mazhanbaig44%40gmail.com-FF6F61?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mazhanbaig44@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-azhan-baig)
+[![Portfolio](https://img.shields.io/badge/-mazhanbaig.vercel.app-7F00FF?style=for-the-badge&logo=vercel&logoColor=white)](https://mazhanbaig.vercel.app)
 
-## 🚀 About Me
+</div>
 
-Full-Stack Developer with hands-on production experience building and deploying scalable web apps using **React, Next.js, TypeScript, Node.js, and MongoDB**. Currently interning as a MERN Stack Developer while building two flagship SaaS products — **Z-State** (real estate management) and **SubGuard AI** (subcontractor compliance) — covering everything from auth architecture to AI-powered features via OpenRouter LLM APIs.
+<br/>
 
-| Highlight | Detail |
-|---|---|
-| 💼 Current Role | Full Stack MERN & App Development Intern — Zaitoon Ashraf IT Park |
-| 🎓 Education | FSc Computer Science (Part II) — Army Public College COD |
-| 🛠️ Training | Full Stack Web & Mobile App Development — Saylani Mass IT Training (SMIT) |
-| 🏗️ Flagship Builds | Z-State (live SaaS) · SubGuard AI (in development) |
-| 🔐 Core Focus | JWT Auth · Refresh Token Rotation · RBAC · AI/LLM Integration |
-| 📍 Based In | Karachi, Pakistan 🇵🇰 |
+```yaml
+whoami: Muhammad Azhan Baig
+role: Full-Stack Developer (MERN + Next.js + AI)
+currently@: Zaitoon Ashraf IT Park — Full Stack MERN & App Dev Intern
+shipping: [Z-State (live), SubGuard AI (in dev)]
+stack: [React, Next.js, Node.js, Express, NestJS, MongoDB, Firebase, Docker]
+ai_layer: OpenRouter LLM APIs + Prompt Engineering
+location: Karachi, Pakistan 🇵🇰
+status: 🟢 open to opportunities
+```
 
----
+<br/>
 
-## 💼 Professional Experience
+## ⚡ Tech Arsenal
 
-**🏢 Full Stack MERN & App Development Intern** — Zaitoon Ashraf IT Park `June 2026 – Present`
-> Engineer and maintain full-stack apps using MongoDB, Express.js, React.js, Node.js, and NestJS · Implement JWT auth, refresh token rotation, and RBAC · Integrate OpenRouter LLM APIs for AI-powered client features · Collaborate in an Agile environment with code reviews and sprint planning
+<div align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,nestjs,mongodb,firebase,docker,git,github,vercel,tailwind,postman,figma&theme=dark&perline=8"/>
+</div>
 
-**⚡ Independent Full-Stack Developer (Self-Initiated Projects)** — Remote `July 2025 – Present`
-> Design, build, and deploy full-stack apps end-to-end — database to production on Vercel — using React.js, Next.js, TypeScript, and Node.js · Architect secure REST APIs with JWT, refresh tokens, and RBAC · Own features from schema design through CI/CD deployment
+<br/>
 
----
+## 🔥 What I'm Building
 
-## 🛠️ Technical Expertise
+<table>
+<tr>
+<th width="50%">🏢 Z-State <a href="https://zstate.vercel.app"><img src="https://img.shields.io/badge/LIVE-success?style=flat-square"/></a></th>
+<th width="50%">🛡️ SubGuard AI <img src="https://img.shields.io/badge/IN%20DEV-orange?style=flat-square"/></th>
+</tr>
+<tr>
+<td>
 
-| Category | Technologies |
-|---|---|
-| **🌐 Frontend** | `React.js` `Next.js (App Router)` `React Native` `TypeScript` `Tailwind CSS` |
-| **⚙️ Backend** | `Node.js` `Express.js` `NestJS` `RESTful APIs` `Middleware Architecture` |
-| **🗄️ Database** | `MongoDB` `Firebase Realtime Database` `Firebase Firestore` `NoSQL Modeling` |
-| **🔐 Auth & Security** | `JWT` `Refresh Token Rotation` `RBAC` `CORS` `Input Validation` |
-| **🤖 AI & Integrations** | `OpenRouter` `LLM API Integration` `Prompt Engineering` `RAG Fundamentals` `Cloudinary` |
-| **🚢 DevOps & Tools** | `Docker` `Git` `GitHub` `Vercel` `CI/CD` `Postman` `MongoDB Compass` |
+Real estate management SaaS — property listings, client/owner relations, appointment scheduling. Multi-tenant RBAC + JWT refresh rotation, shipped on Vercel CI/CD.
 
----
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![JWT](https://img.shields.io/badge/-JWT-000?style=flat-square&logo=jsonwebtokens)
 
-## 📚 Featured Projects
+</td>
+<td>
 
-| Project | Stack | Highlights |
-|---|---|---|
-| 🏢 **[Z-State](https://zstate.vercel.app)** — Real Estate SaaS | Next.js · Express.js · Firebase · JWT · RBAC | Production platform for listings, client/owner management & scheduling, multi-tenant RBAC, Vercel CI/CD |
-| 🛡️ **SubGuard AI** — AI Compliance Platform *(In Dev)* | Next.js · TypeScript · MongoDB · OpenRouter · Cloudinary | Document analysis, insurance validation, risk scoring, and automated compliance reminders via LLMs |
-| ⚙️ **RSMS Backend API** — Modular REST Service | Node.js · Express.js · Firebase Admin SDK · RBAC | Full middleware pipeline — auth, validation, error handling, request logging |
-| ⚡ **SMIT 12-Hour Hackathon** | MongoDB · Express · React · Node.js | Designed, built, and deployed a functional MERN prototype under a fixed 12-hour team constraint |
+AI-powered compliance platform for contractors — document analysis, insurance validation, risk scoring, automated reminders, all running on OpenRouter LLMs.
 
----
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/-OpenRouter-5A45FF?style=flat-square)
 
-## 🎓 Certifications & Training
+</td>
+</tr>
+</table>
 
-| Certification | Issuer | Status |
-|---|---|---|
-| Full Stack Web Development & Mobile App Development | Saylani Mass IT Training (SMIT) | ✅ Feb 2025 – Feb 2026 |
-| JavaScript, CSS, and HTML Essentials | Cisco Networking Academy | ✅ |
-| FSc Computer Science (Part II) | Army Public College COD | 🔄 In Progress, Expected 2027 |
-| Matriculation (Computer Science) — SSC Part I: 89% · Part II: 94% | Army Public School COD | ✅ 2024 |
+<table>
+<tr>
+<th width="50%">⚙️ RSMS Backend API</th>
+<th width="50%">⏱️ SMIT 12-Hour Hackathon</th>
+</tr>
+<tr>
+<td>
 
----
+Modular Express.js REST service — full middleware pipeline for auth, validation, error handling & request logging, secured with Firebase Admin SDK + RBAC.
 
-## 📊 GitHub Statistics
+</td>
+<td>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mazhanbaig&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/mazhanbaig)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mazhanbaig&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/mazhanbaig)
+Designed, built, and deployed a working full-stack MERN prototype as a team — under a hard 12-hour deadline. Concept to deployment, no time to waste.
 
-[![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mazhanbaig.mazhanbaig)](https://github.com/mazhanbaig)
+</td>
+</tr>
+</table>
 
----
+<br/>
 
-## 🤝 Let's Connect
+## 📈 The Numbers
 
-Open to full-stack and AI-integration opportunities — always happy to talk shop on Next.js, secure API design, or LLM-powered features.
+<div align="center">
 
-| Channel | Link |
-|---|---|
-| 📧 Email | [mazhanbaig44@gmail.com](mailto:mazhanbaig44@gmail.com) |
-| 🔗 LinkedIn | [linkedin.com/in/muhammad-azhan-baig](https://www.linkedin.com/in/muhammad-azhan-baig) |
-| 💻 GitHub | [github.com/mazhanbaig](https://github.com/mazhanbaig) |
-| 🌐 Portfolio | [mazhanbaig.vercel.app](https://mazhanbaig.vercel.app) |
+<img src="https://github-readme-stats.vercel.app/api?username=mazhanbaig&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mazhanbaig&theme=radical&hide_border=true&background=0D1117" width="48%"/>
 
-⭐ **If any of my projects helped you, a star is always appreciated!**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mazhanbaig&theme=react-dark&hide_border=true&bg_color=0D1117" width="97%"/>
 
-*Building in public from Karachi, Pakistan*
+</div>
+
+<details>
+<summary><b>🏆 Trophy Case (click to expand)</b></summary>
+<br/>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=mazhanbaig&theme=radical&no-frame=true&row=1&column=7"/>
+</div>
+</details>
+
+<br/>
+
+## 🤝 Let's Build Something
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-FF6F61?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mazhanbaig44@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-azhan-baig)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7F00FF?style=for-the-badge&logo=vercel&logoColor=white)](https://mazhanbaig.vercel.app)
+
+![Profile Views](https://komarev.com/ghpvc/?username=mazhanbaig&color=B026FF&style=for-the-badge&label=PROFILE+VIEWS)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6FD8,50:E100FF,100:7F00FF&height=120&section=footer" width="100%"/>
+
+</div>

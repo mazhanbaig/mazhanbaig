@@ -1,8 +1,16 @@
 <div align="center">
 
-# Muhammad Azhan Baig
+```
+$ whoami
+Muhammad Azhan Baig — Full-Stack Developer
 
-**Full-Stack Developer — NestJS · Next.js · AI Integration**
+$ cat focus.txt
+NestJS backends · Next.js frontends · AI integration via OpenRouter
+Building production SaaS platforms, end to end.
+
+$ status
+Open to full-stack & AI-integration opportunities
+```
 
 [![Email](https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:mazhanbaig44@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-azhan-baig)
@@ -54,18 +62,27 @@ Full-Stack Developer building production SaaS platforms end-to-end — NestJS/Ex
 
 ## Experience
 
-**Full Stack MERN & App Development Intern** — Zaitoon Ashraf IT Park
-`June 2026 – Present`
-- Build full-stack apps with MongoDB, Express.js, React.js, Node.js, and NestJS
-- Implement JWT auth, refresh token rotation, and RBAC
-- Integrate OpenRouter LLM APIs for AI-powered client features
-- Collaborate in an Agile environment — code reviews, sprint planning
+```
+2026 ─ Present   Full Stack MERN & App Development Intern
+                 Zaitoon Ashraf IT Park · Karachi, Pakistan
 
-**Independent Full-Stack Developer (Self-Initiated Projects)** — Remote
-`July 2025 – Present`
-- Design, build, and deploy full-stack apps end-to-end using Next.js, TypeScript, and Node.js
-- Architect secure REST APIs with JWT, refresh tokens, and RBAC
-- Own features from database schema through CI/CD deployment
+                 ▸ Build full-stack apps with MongoDB, Express.js,
+                   React.js, Node.js, and NestJS
+                 ▸ Implement JWT auth, refresh token rotation, and RBAC
+                 ▸ Integrate OpenRouter LLM APIs for AI-powered features
+                 ▸ Collaborate in Agile sprints — code reviews,
+                   sprint planning, feature estimation
+
+2025 ─ Present   Independent Full-Stack Developer (Self-Initiated)
+                 Remote
+
+                 ▸ Design, build, and deploy full-stack apps end-to-end
+                   using Next.js, TypeScript, and Node.js
+                 ▸ Architect secure REST APIs with JWT, refresh
+                   tokens, and RBAC
+                 ▸ Own features from schema design through
+                   CI/CD deployment
+```
 
 ---
 
@@ -97,14 +114,38 @@ Designed, built, and deployed a functional MERN prototype under a fixed 12-hour 
 
 ---
 
-## Education & Certifications
+## Education
 
-| Credential | Institution | Status |
-|---|---|---|
-| Full Stack Web & Mobile App Development | Saylani Mass IT Training (SMIT) | Feb 2025 – Feb 2026 |
-| JavaScript, CSS, and HTML Essentials | Cisco Networking Academy | Completed |
-| FSc Computer Science (Part II) | Army Public College COD | In Progress, Expected 2027 |
-| Matriculation (Computer Science) | Army Public School COD | 2024 — 89% / 94% |
+```
+2027 (Expected)  FSc Computer Science (Part II)
+                 Army Public College COD, Karachi
+
+2026             Full Stack Web & Mobile App Development Certificate
+                 Saylani Mass IT Training (SMIT) · Feb 2025 – Feb 2026
+
+2024             Matriculation — Computer Science
+                 Army Public School COD · SSC Part I: 89% · Part II: 94%
+
+—                JavaScript, CSS & HTML Essentials
+                 Cisco Networking Academy
+```
+
+---
+
+## Contact
+
+<div align="center">
+
+**Let's build something — open to full-stack & AI-integration roles**
+
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mazhanbaig44@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-azhan-baig)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mazhanbaig)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mazhanbaig.vercel.app)
+
+<sub>Karachi, Pakistan · Usually replies within a day</sub>
+
+</div>
 
 ---
 
@@ -116,20 +157,3 @@ Designed, built, and deployed a functional MERN prototype under a fixed 12-hour 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mazhanbaig&theme=github-dark-blue&hide_border=true" width="49%"/>
 
 </div>
-
----
-
-## Contact
-
-| | |
-|---|---|
-| Email | [mazhanbaig44@gmail.com](mailto:mazhanbaig44@gmail.com) |
-| LinkedIn | [linkedin.com/in/muhammad-azhan-baig](https://www.linkedin.com/in/muhammad-azhan-baig) |
-| GitHub | [github.com/mazhanbaig](https://github.com/mazhanbaig) |
-| Portfolio | [mazhanbaig.vercel.app](https://mazhanbaig.vercel.app) |
-
-<div align="center">
-
-<sub>Open to full-stack & AI-integration opportunities</sub>
-
-</div> 

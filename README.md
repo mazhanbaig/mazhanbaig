@@ -1,10 +1,6 @@
 <div align="center">
 
-# Muhammad Azhan Baig
-
-<img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer+%E2%80%94+MERN+%26+Next.js;NestJS+%26+AI+Integration+Engineer+(OpenRouter);Building+Z-State+%26+SubGuard+AI;Based+in+Karachi%2C+Pakistan&font=Fira+Code&center=true&width=620&height=50&duration=3000&pause=1200&color=8B85F4&vCenter=true&size=21&random=false" alt="Typing SVG" />
-
-<p>Full-stack developer turning SaaS ideas into fast, secure, production-grade platforms.</p>
+<img src="https://raw.githubusercontent.com/mazhanbaig/mazhanbaig/main/assets/banner.svg" alt="Muhammad Azhan Baig — Full-stack developer" width="100%" />
 
 <p>
   <a href="mailto:mazhanbaig44@gmail.com"><img src="https://img.shields.io/badge/Email-8B85F4?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
